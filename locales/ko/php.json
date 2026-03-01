@@ -37,7 +37,7 @@
     "doesnt_end_with": ":attribute은 다음 중 하나로 끝날 수 없습니다: :values.",
     "doesnt_start_with": ":attribute은 다음 중 하나로 시작할 수 없습니다: :values.",
     "email": ":attribute은(는) 유효한 이메일 주소여야 합니다.",
-    "encoding": "The :attribute field must be encoded in :encoding.",
+    "encoding": ":attribute 필드는 :encoding으로 인코딩되어야 합니다.",
     "ends_with": ":attribute은(는) 다음 중 하나로 끝나야 합니다: :values.",
     "enum": ":attribute의 값이 잘못되었습니다.",
     "exists": ":attribute이(가) 존재하지 않습니다.",
